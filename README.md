@@ -18,6 +18,8 @@ We have data of Sparkify, A fictional music app just like any other music apps i
 We are doing this analysis on local machine .however we can scale the same analysis on the larger data set using any big data platform.
 For ex:-> on Spark cluster using AWS with same code and slight modification in code for example pointing out path of hdfs where log files present to read it, etc
 
+I have written article on Medium on this project you can checkout [here](https://medium.com/@vinayak_navale/building-customer-churn-predictive-model-using-spark-213a4d641923?source=friends_link&sk=3406a85278f19d645960cf810a7eb4ac) and if you like do share and clap!! :)
+
 
 ##### **Steps Followed:**
 * Load all the required libraries & Create spark session.
