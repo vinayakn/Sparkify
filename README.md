@@ -5,11 +5,11 @@
 
 |S.NO| Description | README |
 |--| ------ | ------ |
-|1|Motivation|[GOTO]()|
-|2|Installation | [GOTO]()|
-|3|The file structure | [GOTO]() |
-|4|Summary of the results of the analysis| [GOTO]() |
-|5|Acknowledgements | [GOTO]() |
+|1|Motivation|[GOTO](https://github.com/vinayakn/Sparkify#motivation)|
+|2|Installation | [GOTO](https://github.com/vinayakn/Sparkify#installation)|
+|3|The file structure | [GOTO](https://github.com/vinayakn/Sparkify#the-file-structure) |
+|4|Summary of the results of the analysis| [GOTO](https://github.com/vinayakn/Sparkify#summary-of-the-results-of-the-analysis) |
+|5|Acknowledgements | [GOTO](https://github.com/vinayakn/Sparkify#acknowledgements) |
 
 # Motivation
 
